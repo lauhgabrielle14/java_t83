@@ -1,4 +1,4 @@
-package atividadesLauren;
+package java03e04_Variaveis_Operadores;
 
 import java.util.Scanner;
 
