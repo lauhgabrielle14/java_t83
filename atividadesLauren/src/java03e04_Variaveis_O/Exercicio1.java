@@ -1,4 +1,4 @@
-package java03e04_Variaveis_Operadores;
+package java03e04_Variaveis_O;
 
 import java.util.Scanner;
 
