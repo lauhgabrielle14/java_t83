@@ -2,7 +2,7 @@ package java03e04_Variaveis_O;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio03_VARIAVEIS {
 
 	public static void main(String[] args) {
 		

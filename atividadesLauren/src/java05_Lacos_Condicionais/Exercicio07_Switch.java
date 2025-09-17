@@ -2,7 +2,7 @@ package java05_Lacos_Condicionais;
 
 import java.util.Scanner;
 
-public class Exercicio7_Switch {
+public class Exercicio07_Switch {
 
 	public static void main(String[] args) {
 		Scanner leia = new Scanner (System.in);
