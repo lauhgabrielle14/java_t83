@@ -1,4 +1,4 @@
-package helloworld;
+package operadores;
 
 import java.util.Scanner;
 
